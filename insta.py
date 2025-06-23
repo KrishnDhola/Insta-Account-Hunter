@@ -59,9 +59,9 @@ print(f'''\n
         ''')
 print(f'\x1b[1;39m𒆜'*77)
 
-ID = input('Enter Your Chat Id ->  ')
+ID = input('Enter Your Chat Id ->  7235913774')
 FILENAME = 'META'
-token = input('Enter Your Telegram Bot Token ->  ')
+token = input('Enter Your Telegram Bot Token ->  7667882107:AAH2ioes6KG8qTXNGs69X7q1z_ZjwvSuJV4')
 aca = 0
 total = 0
 hits = 0
